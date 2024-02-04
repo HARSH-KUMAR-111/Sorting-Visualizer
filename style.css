@@ -9,7 +9,21 @@ body{
   flex-direction: column;
 }
 .bar{
-  width: 10px;
+  width: 20px;
   background-color: black;
   margin:1px;
+}
+.get-button,.play-button{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  color: white;
+  height: 40px;
+  width: 80px;
+  border-radius: 20px;
+  margin-left: 10px;
+  margin-right: 10px;
+  transition: padding 0.15s,margin 0.15s;
+  cursor:pointer;
+  border:none;
+  background-color: rgb(0, 21, 179) ;
 }
