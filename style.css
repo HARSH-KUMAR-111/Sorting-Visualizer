@@ -10,7 +10,7 @@ body{
 }
 .bar{
   width: 20px;
-  background-color: black;
+  background-color: rgb(97, 97, 97);
   margin:1px;
 }
 .get-button,.play-button{
